@@ -1,0 +1,47 @@
+body {
+    background-image: url(ivana-cajina-Hi0bdO0vEfo-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;    
+
+    color: white;
+    text-align: center;
+    font-family: "Courier";
+}
+
+#header {
+    font-size: 100px;
+    margin: 0;
+    position: relative;
+    top: 200px;
+    }
+
+#query{
+    position: relative;
+    top: 200px;
+}
+
+#search{
+    position: relative;   
+    top: 200px;
+    background-color: darkblue;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+
+#timeButton{
+    position: relative;
+    top: 200px;
+    background-color: darkblue;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+
+#time {
+    display: none;
+}
+
+#searchResults {
+    display: none;
+}
